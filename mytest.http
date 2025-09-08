@@ -1,0 +1,2 @@
+#post mylocal
+post http://localhost:3000/send_data 
