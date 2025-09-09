@@ -8,6 +8,8 @@ pub mod myreqwest;
 
 pub mod traits_test;
 
+pub mod mydefault;
+
 // init log config 
 pub fn init() {
     let _ = env_logger::builder()
